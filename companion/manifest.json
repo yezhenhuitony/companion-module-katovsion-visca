@@ -5,12 +5,12 @@
 	"description": "Control KATOVSION PTZ cameras with VISCA commands over IP",
 	"version": "1.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/bitfocus/companion-module-KATOVSION-ptz.git",
-	"bugs": "https://github.com/bitfocus/companion-module-KATOVSION-ptz/issues",
+	"repository": "https://github.com/yezhenhuitony/companion-module-katovsion-visca.git",
+	"bugs": "https://github.com/yezhenhuitony/companion-module-katovsion-visca/issues",
 	"maintainers": [
 		{
 			"name": "TONY",
-			"email": "pTYhd4QzzA@proton.me"
+			"email": "pm01@9ttop.com"
 		}
 	],
 	"runtime": {
