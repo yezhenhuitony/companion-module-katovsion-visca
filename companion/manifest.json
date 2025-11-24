@@ -1,16 +1,16 @@
 {
-	"id": "katovsion-visca",
-	"name": "KATOVSION:VISCA",
-	"shortname": "katovsion-visca",
-	"description": "Control KATOVSION PTZ cameras with VISCA commands over IP",
+	"id": "hdkatov-visca",
+	"name": "hdkatov:VISCA",
+	"shortname": "hdkatov-visca",
+	"description": "Control hdkatov PTZ cameras with VISCA commands over IP",
 	"version": "1.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/bitfocus/companion-module-KATOVSION-ptz.git",
-	"bugs": "https://github.com/bitfocus/companion-module-KATOVSION-ptz/issues",
+	"repository": "git+https://github.com/bitfocus/companion-module-hdkatov-visca.git",
+	"bugs": "https://github.com/bitfocus/companion-module-hdkatov-visca/issues",
 	"maintainers": [
 		{
 			"name": "TONY",
-			"email": "pTYhd4QzzA@proton.me"
+			"email": "pm01@9ttop.com"
 		}
 	],
 	"runtime": {
@@ -20,7 +20,7 @@
 		"entrypoint": "../main.js"
 	},
 	"legacyIds": [],
-	"manufacturer": "KATOVSION", 
-	"products": ["PTZ"],
-	"keywords": ["VISCA", "VISCA over IP", "PTZ", "Camera", "KATOVSION", "UDP"]
+	"manufacturer": "HDkatov", 
+	"products": ["VISCA"],
+	"keywords": ["VISCA", "VISCA over IP", "PTZ", "Camera", "hdkatov", "UDP"]
 }

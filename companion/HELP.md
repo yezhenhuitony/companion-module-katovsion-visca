@@ -1,22 +1,21 @@
-# Katovsion VISCA PTZ
+# hdkatov VISCA PTZ
 
 ## Description
 
-Use VISCA commands to control Katovsion PTZ cameras. Please note that some VISCA commands may only work with specific Katovsion models and firmware versions. Refer to your camera's user manual or the Katovsion website for detailed compatibility information.
+Use VISCA commands to control hdkatov PTZ cameras. Please note that some VISCA commands may only work with specific hdkatov models and firmware versions. Refer to your camera's user manual or the hdkatov website for detailed compatibility information.
 
 ## Configuration
 
-**Target IP:** The IP address of your Katovsion camera
+**Target IP:** The IP address of your hdkatov camera
 
 **Target Port:** The UDP port used by the camera for VISCA over IP communication. The default port is 52381.
 
 ## Supported Camera Models
 
-This module is designed to work with Katovsion PTZ cameras that support the VISCA over IP protocol, including but not limited to:
+This module is designed to work with hdkatov PTZ cameras that support the VISCA over IP protocol, including but not limited to:
 
-- Katovsion K-PTZ Series
-- Katovsion Pro AV Series
-- Other Katovsion models with VISCA over IP capability
+- hdkatov Broadcast-grade cameras Series
+- Other hdkatov models with VISCA over IP capability
 
 ## Troubleshooting
 
@@ -26,10 +25,10 @@ This module is designed to work with Katovsion PTZ cameras that support the VISC
 
 ## Additional Resources
 
-- [Katovsion Official Website](https://katovsion.com)
-- [Katovsion Technical Support](mailto:support@katovsion.com)
+- [hdkatov Official Website](https://hdkatov.com)
+- [hdkatov Technical Support](mailto:pm01@9ttop.com)
 - VISCA Protocol Documentation (consult your camera's user manual)
 
 ---
 
-*For optimal performance, ensure your Katovsion camera firmware is up to date.*
+*For optimal performance, ensure your hdkatov camera firmware is up to date.*
